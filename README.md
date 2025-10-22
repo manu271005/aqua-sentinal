@@ -1,73 +1,39 @@
-# Welcome to your Lovable project
+Smart Health Monitoring Platform
 
-## Project info
+Live Demo
+https://aqua-sentinal-two.vercel.app
 
-**URL**: https://lovable.dev/projects/732ea402-54d7-4485-b577-e3aefd922891
+Overview
+The Smart Health Monitoring Platform is an intelligent web application designed to continuously track, visualize, and analyze users’ vital health parameters.
+By integrating AI and modern web technologies, the platform helps users identify early signs of health risks and take preventive actions through real-time data visualization and insights.
+This project demonstrates end-to-end front-end development, data visualization, and AI integration for healthcare — built with scalability, performance, and usability in mind.
 
-## How can I edit this code?
+Key Features
+Real-Time Health Monitoring: Tracks vitals such as heart rate, body temperature, and SpO₂.
 
-There are several ways of editing your application.
+AI-Powered Insights: Predicts potential health anomalies and recommends preventive actions.
 
-**Use Lovable**
+Interactive Dashboard: Displays real-time health analytics using charts and graphs.
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/732ea402-54d7-4485-b577-e3aefd922891) and start prompting.
+Responsive UI/UX: Built with modern design principles ensuring seamless usability on all devices.
 
-Changes made via Lovable will be committed automatically to this repo.
+Data Security: Implements secure data handling and user privacy protocols.
 
-**Use your preferred IDE**
+Project Highlights :
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+Innovation: The platform integrates Artificial Intelligence with live health data visualization to provide real-time insights and predictive analytics for users.
+Scalability: Built using a modular architecture with React and TypeScript, allowing easy expansion and maintenance of the system.
+Performance: Optimized with Vite’s high-speed build system for fast loading times and efficient development.
+Design: Developed using Tailwind CSS and Shadcn UI to achieve a clean, modern, and consistent interface across all devices.
+Deployment: Deployed on Vercel to ensure high availability, smooth updates, and reliable hosting performance.
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+Tech Stack :
 
-Follow these steps:
+Frontend Framework: React with TypeScript for building a robust and type-safe user interface.
+Build Tool: Vite for lightning-fast compilation and optimized development workflow.
+UI Components: Shadcn UI for ready-to-use, customizable, and accessible design components.
+Styling: Tailwind CSS for utility-first and responsive design implementation.
+Hosting: Vercel for continuous integration, deployment, and hosting.
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
-
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
-
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
-
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/732ea402-54d7-4485-b577-e3aefd922891) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+License:
+This project is open-source and available under the MIT License.
